@@ -1,0 +1,9 @@
+infomathilde
+
+donne les infos toutes les heures par affichage d'une fenetre pendant 10 secondes en rapport avec des mots clés 
+ceux ci se trouvent dans : infomathilde/info1memoire/info.json
+modifier avec les mots impotant pour vous
+
+fonctionne avec le CRON
+donc dans les infomathilde.pro modifier le cron comme vous voulez
+
